@@ -1,4 +1,4 @@
-# Retail-Assess-Sales-Outlets-Performance
+# Final Project: Retail-Assess-Sales-Outlets-Performance
 <b>Final Project for the practicum100 program</b>
 
 Context:
